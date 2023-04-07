@@ -1,5 +1,6 @@
 # ASL_Automated_Interpreter
-An automated ASL interpreter. This project involves a robotic glove that detects hand movements in order to decipher ASL letters. The letters will be displayed on a LCD.
+An automated ASL interpreter. This project consists of making a robotic glove  which will use the sensors to detect the hand movements which will be used to determin the different ASL letters, these letters are then displayed on an LCD. It also allows you to create full sentences and delete words if needed.
+
 
 
 
